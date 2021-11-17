@@ -1,4 +1,4 @@
-public class Main {
+public class harmonicAverage {
     public static void main(String[] args) {
         //average
         int[] myList={20,30,40,50,60,70};
